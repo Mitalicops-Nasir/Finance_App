@@ -5,29 +5,8 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1716889126102,
-      "tag": "0000_unknown_talisman",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1716890316613,
-      "tag": "0001_concerned_blue_blade",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1717128411798,
-      "tag": "0002_dusty_thunderbolt_ross",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "5",
-      "when": 1717220450933,
-      "tag": "0003_new_patriot",
+      "when": 1717742273126,
+      "tag": "0000_plain_strong_guy",
       "breakpoints": true
     }
   ]

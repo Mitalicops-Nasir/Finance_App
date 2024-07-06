@@ -35,6 +35,7 @@
     "date-fns": "^3.6.0",
     "drizzle-orm": "^0.30.10",
     "drizzle-zod": "^0.5.1",
+    "dwolla-v2": "^3.4.0",
     "hono": "^4.4.0",
     "lucide-react": "^0.379.0",
     "next": "14.2.3",
