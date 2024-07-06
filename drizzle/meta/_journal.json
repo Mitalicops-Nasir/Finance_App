@@ -8,6 +8,13 @@
       "when": 1717742273126,
       "tag": "0000_plain_strong_guy",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1720246470421,
+      "tag": "0001_groovy_lionheart",
+      "breakpoints": true
     }
   ]
 }
